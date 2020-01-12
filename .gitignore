@@ -2,4 +2,6 @@
 /.gradle/
 /build/
 /build/classes/java/main/
-!/.idea/
+/.idea/
+src/main/resources/
+src/test/
