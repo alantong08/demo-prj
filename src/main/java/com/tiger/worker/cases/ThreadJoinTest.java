@@ -1,4 +1,4 @@
-package com.alan.interview.cases;
+package com.tiger.worker.cases;
 
 public class ThreadJoinTest {
 
